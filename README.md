@@ -1,8 +1,7 @@
 ![logo](https://github.com/khushboomourya/khushboomourya/blob/main/github-header-image%20(2).png)
-
+<h2 align="left">About Me:</h2>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
-<h2 align="left">About Me:</h2>
 - 🌱 I’m currently learning **Data Structures and Algorithms to enhance my skills as a Java developer.**
   
 - 👀 I’m interested in **technology, coding, innovation and UI/UX design.**
