@@ -22,12 +22,12 @@
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=khushboomourya&theme=dark&layout=compact&align="center")<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khushboomourya&theme=black-ice&layout=compact&align="center")<br/>
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboomourya&theme=dark&show_icons=true&hide_border=true" alt="khushboomourya" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboomourya&theme=dark&show_icons=true&layout=compact&hide_border=true" alt="khushboomourya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboomourya&theme=react&show_icons=true&hide_border=true" alt="khushboomourya" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboomourya&theme=react&show_icons=true&layout=compact&hide_border=true" alt="khushboomourya" /></p>
 
 ---
 <h3 align="left">🏆 GitHub Trophies</h3>
