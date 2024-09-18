@@ -1,4 +1,3 @@
-![logo](https://github.com/khushboomourya/khushboomourya/blob/main/github-header-image%20(2).png)
 ![logo](https://github.com/khushboomourya/khushboomourya/blob/main/github-header-image%20(3).png)
 [![](https://visitcount.itsvg.in/api?id=khushboomourya&icon=0&color=6)](https://visitcount.itsvg.in)
 <h2 align="left">About Me:</h2>
