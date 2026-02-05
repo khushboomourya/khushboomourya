@@ -27,12 +27,12 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboomourya&theme=react&show_icons=true&hide_border=true" alt="khushboomourya" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboomourya&theme=react&show_icons=true&layout=compact&hide_border=true" alt="khushboomourya" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboomourya&theme=react&show_icons=true&hide_border=true" alt="khushboomourya" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboomourya&theme=react&show_icons=true&layout=compact&hide_border=true" alt="khushboomourya" /></p> -->
 
 ---
-<h3 align="left">🏆 GitHub Trophies</h3>
+<!-- <h3 align="left">🏆 GitHub Trophies</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=khushboomourya&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=khushboomourya&theme=onedark&no-frame=true&no-bg=false&margin-w=4) -->
 
 ---
